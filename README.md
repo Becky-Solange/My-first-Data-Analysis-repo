@@ -1,5 +1,5 @@
 # Project Name: My-first-Data-Analysis-repo - Financial Analysis
-fhjk
+
 
 ----
 # Project Objectives
