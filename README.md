@@ -1,4 +1,4 @@
-# Project Name: My-first-Data-Analysis-repo - Financial Analysis
+# Project Name: Data-Analysis-repo - Financial Analysis
 
 
 ----
